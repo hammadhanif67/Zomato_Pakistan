@@ -2,6 +2,8 @@
 
 🔗 **Live:** https://zomato-pakistan.vercel.app
 
+![Zomato Pakistan: screenshot of the live site](.github/assets/preview.jpg)
+
 A practice project: a food-delivery landing page for Faisalabad. I first built it as a static HTML/CSS/JavaScript page, then rebuilt it in React and Tailwind CSS.
 
 > This is a learning project and is not affiliated with Zomato. The brand name is used only to describe the design reference.
